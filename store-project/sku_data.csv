@@ -1,0 +1,19 @@
+NAME,LOCATION,DEPARTMENT,CATEGORY,SUBCATEGORY
+SKUDESC1,Perimeter,Bakery,Bakery Bread,Bagels
+SKUDESC2,Perimeter,Deli and Foodservice,Self Service Deli Cold,Beverages
+SKUDESC3,Perimeter,Floral,Bouquets and Cut Flowers,Bouquets and Cut Flowers
+SKUDESC4,Perimeter,Deli and Foodservice,Service Deli,All Other
+SKUDESC5,Center,Frozen,Frozen Bake,Bread or Dough Products Frozen
+SKUDESC6,Center,Grocery,Crackers,Rice Cakes
+SKUDESC7,Center,GM,Audio Video,Audio
+SKUDESC8,Center,GM,Audio Video,Video DVD
+SKUDESC9,Perimeter,GM,Housewares,Beeding
+SKUDESC10,Perimeter,Seafood,Frozen Shellfish,Frozen Shellfish
+SKUDESC11,Perimeter,Seafood,Other Seafood,All Other Seafood
+SKUDESC12,Perimeter,Seafood,Other Seafood,Prepared Seafood Entrees
+SKUDESC13,Perimeter,Seafood,Other Seafood,Salads
+SKUDESC14,Perimeter,Bakery,Bakery Bread,Bagels
+SKUDESC15,Perimeter,Deli and Foodservice,Self Service Deli Cold,Beverages
+SKUDESC16,Perimeter,Floral,Bouquets and Cut Flowers,Bouquets and Cut Flowers
+SKUDESC17,Perimeter,Deli and Foodservice,Service Deli,All Other
+SKUDESC18, Center, Frozen, Frozen Bake, Bread or Dough Products Frozen
